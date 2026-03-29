@@ -29,7 +29,7 @@ jobs:
           output_location: dist
         env:
           NODE_VERSION: "20"
-      - uses: azure/CLI@v2
+      - uses: azure/CLI@v3
         if: always()
         with:
           inlineScript: az logout
