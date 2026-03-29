@@ -24,5 +24,5 @@ This is an Octagonl platform SPA built with React + Vite.
 - Auth provider: `src/components/AuthProvider.tsx`
 - Auth guard: `src/components/AuthGuard.tsx`
 - Platform API client: `src/lib/platform-api.ts`
-- Brand tokens: `shared/tailwind-brand.js`
-- Integration docs: `docs/octagonl-platform-infra/docs/app-integration/`
+- Brand tokens: `shared/tailwind-brand.cjs`
+- Integration docs: `docs/octagonl-docs/app-integration/`
