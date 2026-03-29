@@ -1,4 +1,4 @@
-const brand = require("./shared/tailwind-brand");
+const brand = require("./shared/tailwind-brand.cjs");
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
